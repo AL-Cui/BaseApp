@@ -2,8 +2,8 @@
 App开发基本框架
 开发须知:
 一、JAVA篇
-    1）所有Activity请务必继承BaseActivity。
-    2）避免将Activity作为Context在函数中传递，绝大多数情况下用MyApplication.getContext（）替代。
+    1）所有Activity请务必继承BaseActivity。
+    2）避免将Activity作为Context在函数中传递，绝大多数情况下用MyApplication.getContext（）替代。
     3）尽量减少内部类的使用（一般内部类会对外部类有引用）。
     4）所有Log打印请使用LogUtil打印。
     5）Toast Snackbar请尽量使用相关Utils。
@@ -26,4 +26,4 @@ App开发基本框架
     2）内存泄露（Android Studio -> Analysis Tasks。）
     3) 电池优化。
     4）CPU使用 （Profile）。
-    * 请查看光头哥捣蛋弟相关视频（Udacity 性能优化）
+    * 请查看光头哥捣蛋弟相关视频（Udacity 性能优化）*
