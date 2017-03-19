@@ -1,4 +1,4 @@
-package com.imeepwni.android.baseapp;
+package com.imeepwni.android.baseapp.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
