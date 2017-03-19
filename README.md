@@ -1,4 +1,5 @@
 # BaseApp
+
 App开发基本框架
 
 开发须知:
@@ -42,6 +43,8 @@ App开发基本框架
 * 如果google有官方相关类库，请优先使用google类库。
 
 * 尽量减少工程相互依赖，代码能放入主工程就放入主工程。
+
+[常用类库](https://github.com/iMeePwni/BaseApp/blob/master/%E5%B8%B8%E7%94%A8%E7%B1%BB%E5%BA%93)
 
 ## 四、优化篇 
 
