@@ -20,19 +20,27 @@ public class LogUtils {
         if (CURRENT_SEE_LEVEL >= VERBOSE) {
             Log.d(tag, msg);
         }
-    }public static void d(String tag, String msg) {
+    }
+
+    public static void d(String tag, String msg) {
         if (CURRENT_SEE_LEVEL >= DEBUG) {
             Log.d(tag, msg);
         }
-    }public static void i(String tag, String msg) {
+    }
+
+    public static void i(String tag, String msg) {
         if (CURRENT_SEE_LEVEL >= INFO) {
             Log.d(tag, msg);
         }
-    }public static void w(String tag, String msg) {
+    }
+
+    public static void w(String tag, String msg) {
         if (CURRENT_SEE_LEVEL >= WARN) {
             Log.d(tag, msg);
         }
-    }public static void e(String tag, String msg) {
+    }
+
+    public static void e(String tag, String msg) {
         if (CURRENT_SEE_LEVEL >= ERROR) {
             Log.d(tag, msg);
         }

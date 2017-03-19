@@ -14,12 +14,6 @@ public class MyApplication extends Application {
     // 请将manifests的<application name:>修改为本类
     private static Context sContext;
     private static List<BaseActivity> sActivities;
-    @Override
-    public void onCreate() {
-        super.onCreate();
-        sContext = getApplicationContext();
-        sActivities = new ArrayList<BaseActivity>();
-    }
 
     public static Context getContext() {
         return sContext;
@@ -41,5 +35,12 @@ public class MyApplication extends Application {
                 baseActivity.finish();
             }
         }
+    }
+
+    @Override
+    public void onCreate() {
+        super.onCreate();
+        sContext = getApplicationContext();
+        sActivities = new ArrayList<BaseActivity>();
     }
 }
