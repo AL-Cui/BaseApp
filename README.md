@@ -44,7 +44,7 @@ App开发基本框架
 
 * 尽量减少工程相互依赖，代码能放入主工程就放入主工程。
 
-[常用类库](https://github.com/iMeePwni/BaseApp/blob/master/%E5%B8%B8%E7%94%A8%E7%B1%BB%E5%BA%93)
+  **[常用类库](https://github.com/iMeePwni/BaseApp/blob/master/%E5%B8%B8%E7%94%A8%E7%B1%BB%E5%BA%93)**
 
 ## 四、优化篇 
 
@@ -56,4 +56,4 @@ App开发基本框架
 
 * CPU使用（Profile）。
 
-**请查看光头哥捣蛋弟相关视频[Udacity 性能优化](https://cn.udacity.com/course/android-performance--ud825)**
+  **请查看光头哥捣蛋弟相关视频[Udacity 性能优化](https://cn.udacity.com/course/android-performance--ud825)**
