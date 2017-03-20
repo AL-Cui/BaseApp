@@ -67,11 +67,17 @@ App开发基本框架
  
    **[阿里巴巴图标](http://www.iconfont.cn/)**
   
+* 在线裁剪图标
+ 
+   **[图标工场](http://icon.wuruihong.com/)**，**[YDImage](http://ydimage.yidianhulian.com/)**，**[aTool在线工具](http://www.atool.org/ios_logo.php)**
+  
  * 开源代码
  
-   **[泡在网上的日子](http://www.jcodecraeer.com/)**,**[CTOLib](http://www.ctolib.com/categories/android-app.html)**
+   **[泡在网上的日子](http://www.jcodecraeer.com/)**，**[CTOLib](http://www.ctolib.com/categories/android-app.html)**
    
  * 工具网站
  
-    **[菜鸟工具](https://c.runoob.com/)**,**[开发工具](http://www.androiddevtools.cn/)**
-   
+    **[菜鸟工具](https://c.runoob.com/)**，**[开发工具](http://www.androiddevtools.cn/)**，**[图片压缩](https://tinypng.com/)**
+    
+
+   
