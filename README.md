@@ -44,6 +44,63 @@ App开发基本框架
 
   **[菜鸟工具](https://c.runoob.com/)**,**[开发工具](http://www.androiddevtools.cn/)**,[tinypng](https://tinypng.com/)
 ## 六、范例篇
+<p>Activity范例</p>
+<pre><code>
+public class LogoActivity extends BaseActivity {
+	public static final int LOGIN_SELECT = 1;
+	public static final int LOGIN_SUC = 2;
+	public static final int DEVICE_CHOICE = 3;
+	public static final int UPDATE = 4;
+ 
+ Handler mHandler = new Handler() {
+		public void handleMessage(Message msg) {
+			finish();
+	 };
+	};
+
+	private CountDownTimer timer = new CountDownTimer(6 * 1000, 1 * 1000) {
+		@Override
+		public void onTick(long millisUntilFinished) {
+		}
+
+		@Override
+		public void onFinish() {
+			showToast("连接超时请稍后重试");
+			finish();
+		}
+  
+  private AnimatorSet animSet = new AnimatorSet();
+		animSet.addListener(new AnimatorListener() {
+			@Override
+			public void onAnimationStart(com.nineoldandroids.animation.Animator animation) {
+				iconFace.setEnabled(false);
+			}
+
+			@Override
+			public void onAnimationRepeat(com.nineoldandroids.animation.Animator animation) {
+			}
+
+			@Override
+			public void onAnimationEnd(com.nineoldandroids.animation.Animator animation) {
+				iconFace.setEnabled(true);
+			}
+
+			@Override
+			public void onAnimationCancel(com.nineoldandroids.animation.Animator animation) {
+			}
+
+		});
+  
+  	@Override
+	public void finish() {
+		timer.cancel();
+		mHandler.removeCallbacksAndMessages(null);
+  animSet.removeAllListeners();
+		super.finish();
+	}
+	};
+ }
+</code></pre>
 
 
    
