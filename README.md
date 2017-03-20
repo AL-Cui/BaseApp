@@ -57,3 +57,4 @@ App开发基本框架
 * CPU使用（Profile）。
 
   **请查看光头哥捣蛋弟相关视频[Udacity 性能优化](https://cn.udacity.com/course/android-performance--ud825)**
+  **[优化文章精选](http://www.jianshu.com/p/525e9d555cf3)**
