@@ -18,6 +18,8 @@ App开发基本框架
 
 * 所有for循环请使用 int size = size(); for (int i = 0, i < size, i++) {}结构;
 
+* 在Activity的onDestroy()方法中反注册掉监听器、释放Handler。
+
 * 不要使用死循环发送网络请求：）
 
 * 将耗时任务从main线程移除到其他线程。
@@ -58,7 +60,6 @@ App开发基本框架
 
 * CPU使用（Profile）。
 
-
   **请查看光头哥捣蛋弟相关视频[Udacity 性能优化](https://cn.udacity.com/course/android-performance--ud825)**，**[优化文章精选](http://www.jianshu.com/p/525e9d555cf3)**
   
 ## 五、常用网站篇
@@ -74,6 +75,10 @@ App开发基本框架
  * 工具网站
  
     **[菜鸟工具](https://c.runoob.com/)**，**[开发工具](http://www.androiddevtools.cn/)**
+    
+## 六、范例篇
+
+
    
 
 
