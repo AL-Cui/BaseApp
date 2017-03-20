@@ -51,7 +51,7 @@ public class LogoActivity extends BaseActivity {
 	public static final int LOGIN_SUC = 2;
 	public static final int DEVICE_CHOICE = 3;
 	public static final int UPDATE = 4;
-	// 不要过度使用static、final
+// 不要过度使用static、final
  Handler mHandler = new Handler() {  
 		public void handleMessage(Message msg) {
 			finish();
@@ -86,11 +86,11 @@ animSet.addListener(new AnimatorListener() {
 });
 	@Override
 	public void finish() {
-		// 注销		
+// 注销		
 		timer.cancel();
-		// 清空		
+// 清空		
 		mHandler.removeCallbacksAndMessages(null);
-		// 反注册
+// 反注册
   		animSet.removeAllListeners();
 		super.finish();
 	}
