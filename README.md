@@ -16,7 +16,9 @@ App开发基本框架
 
 * Toast Snackbar请尽量使用相关Utils。
 
-* 所有for循环请使用 int size = size(); for (int i = 0, i < size, i++) {}结构;
+* 所有for循环请使用 int size = size(); for (int i = 0, i < size, i++) {}结构。
+
+* 在Activity的onDestroy()方法中反注册掉监听器、释放Handler。
 
 * 不要使用死循环发送网络请求：）
 
@@ -69,6 +71,8 @@ App开发基本框架
  * 开源代码
  
    **[泡在网上的日子](http://www.jcodecraeer.com/)**
+   
+## 六、范例篇
  
    
 
