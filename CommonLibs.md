@@ -11,3 +11,4 @@
 ## 图像篇
 
 * [Picasso](http://square.github.io/picasso/)
+* [Glide](https://github.com/bumptech/glide)
