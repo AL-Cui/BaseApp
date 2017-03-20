@@ -12,3 +12,4 @@
 
 * [Picasso](http://square.github.io/picasso/)
 * [Glide](https://github.com/bumptech/glide)
+* [ImageLoader](https://github.com/nostra13/Android-Universal-Image-Loader)
