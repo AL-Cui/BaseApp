@@ -69,9 +69,9 @@ App开发基本框架
   
  * 开源代码
  
-   **[泡在网上的日子](http://www.jcodecraeer.com/)**,**[CTOLib](http://www.ctolib.com/categories/android-app.html)**
+   **[泡在网上的日子](http://www.jcodecraeer.com/)**，**[CTOLib](http://www.ctolib.com/categories/android-app.html)**
    
  * 工具网站
  
-    **[菜鸟工具](https://c.runoob.com/)**,**[开发工具](http://www.androiddevtools.cn/)**
+    **[菜鸟工具](https://c.runoob.com/)**，**[开发工具](http://www.androiddevtools.cn/)**
    
