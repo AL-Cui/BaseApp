@@ -45,6 +45,7 @@ App开发基本框架
 * 尽量减少工程相互依赖，代码能放入主工程就放入主工程。
 
   **[常用类库](https://github.com/iMeePwni/BaseApp/blob/master/CommonLibs.md)**
+  
   **[GitHub 上排名前 100 的 Android 开源库进行简单的介绍](http://www.open-open.com/lib/view/open1457531611171.html)**
 
 ## 四、优化篇 
@@ -57,5 +58,17 @@ App开发基本框架
 
 * CPU使用（Profile）。
 
-  **请查看光头哥捣蛋弟相关视频[Udacity 性能优化](https://cn.udacity.com/course/android-performance--ud825)**
-  **[优化文章精选](http://www.jianshu.com/p/525e9d555cf3)**
+  **请查看光头哥捣蛋弟相关视频[Udacity 性能优化](https://cn.udacity.com/course/android-performance--ud825)**，**[优化文章精选](http://www.jianshu.com/p/525e9d555cf3)**
+  
+## 五、常用网站篇
+
+ * 开发者资源。
+ 
+   **[阿里巴巴图标](http://www.iconfont.cn/)**
+  
+ * 开源代码
+ 
+   **[泡在网上的日子](http://www.jcodecraeer.com/)**
+ 
+   
+
