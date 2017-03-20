@@ -32,17 +32,17 @@ App开发基本框架
 * 电池优化。
 * CPU使用（Profile）。
 
-  **请查看光头哥捣蛋弟相关视频[Udacity 性能优化](https://cn.udacity.com/course/android-performance--ud825)**，**[优化文章精选](http://www.jianshu.com/p/525e9d555cf3)**  
+  **请查看光头哥捣蛋弟相关视频[Udacity 性能优化](https://cn.udacity.com/course/android-performance--ud825)**,**[优化文章精选](http://www.jianshu.com/p/525e9d555cf3)**  
 ## 五、常用网站篇
 * 开发者资源。
 
   **[阿里巴巴图标](http://www.iconfont.cn/)**
 * 开源代码
 
-  **[泡在网上的日子](http://www.jcodecraeer.com/)**，**[CTOLib](http://www.ctolib.com/categories/android-app.html)**
+  **[泡在网上的日子](http://www.jcodecraeer.com/)**,**[CTOLib](http://www.ctolib.com/categories/android-app.html)**
 * 工具网站
 
-  **[菜鸟工具](https://c.runoob.com/)**，**[开发工具](http://www.androiddevtools.cn/)**,[tinypng](https://tinypng.com/)
+  **[菜鸟工具](https://c.runoob.com/)**,**[开发工具](http://www.androiddevtools.cn/)**,[tinypng](https://tinypng.com/)
 ## 六、范例篇
 
 
