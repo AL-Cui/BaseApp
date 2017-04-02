@@ -44,8 +44,9 @@ App开发基本框架
 
   **[菜鸟工具](https://c.runoob.com/)**,**[开发工具](http://www.androiddevtools.cn/)**,[tinypng](https://tinypng.com/)
 ## 六、范例篇
-###Activity范例
+### Activity范例
 ```
+
 public class LogoActivity extends BaseActivity {
 	public static final int LOGIN_SELECT = 1;
 	public static final int LOGIN_SUC = 2;
@@ -95,6 +96,7 @@ animSet.addListener(new AnimatorListener() {
 		super.finish();
 	}
 }
+
 ```
 
 
