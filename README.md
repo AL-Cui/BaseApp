@@ -4,13 +4,13 @@ App开发基本框架
 ## 排版
 * (1)代码缩进:代码块要采用缩进风格编写，缩进的空格数为4个
 * (2)长句分割:较长的语句、表达式或者参数（>80字符）要分成多行书写.例如：
-<pre><code>
+```java
 if(condition1
    && condition2
    && condition3){
    Log.d("tag","Session destroyedcall-id"
    ＋ event.getSession().getCallId())};
-</code></pre>
+```
 * (3)一句一行:不允许把多个短语句写在一行中，即一行只写一条语句。
 * String name = "Mr.Simple"; String addr = "北京市";
 * 推荐的形式:
