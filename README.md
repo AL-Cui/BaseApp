@@ -33,6 +33,7 @@ App开发基本框架
 * CPU使用（Profile）。
 
   **请查看光头哥捣蛋弟相关视频[Udacity 性能优化](https://cn.udacity.com/course/android-performance--ud825)**,**[优化文章精选](http://www.jianshu.com/p/525e9d555cf3)**  
+
 ## 五、常用网站篇
 * 开发者资源。
 
@@ -43,6 +44,23 @@ App开发基本框架
 * 工具网站
 
   **[菜鸟工具](https://c.runoob.com/)**,**[开发工具](http://www.androiddevtools.cn/)**,[tinypng](https://tinypng.com/)
+  
+ * 开发者资源。
+ 
+   **[阿里巴巴图标](http://www.iconfont.cn/)**
+  
+* 在线裁剪图标
+ 
+   **[图标工场](http://icon.wuruihong.com/)**，**[YDImage](http://ydimage.yidianhulian.com/)**，**[aTool在线工具](http://www.atool.org/ios_logo.php)**
+  
+ * 开源代码
+ 
+   **[泡在网上的日子](http://www.jcodecraeer.com/)**，**[CTOLib](http://www.ctolib.com/categories/android-app.html)**
+   
+ * 工具网站
+ 
+    **[菜鸟工具](https://c.runoob.com/)**，**[开发工具](http://www.androiddevtools.cn/)**，**[图片压缩](https://tinypng.com/)**
+
 ## 六、范例篇
 ### Activity范例
 ```java
@@ -103,3 +121,4 @@ animSet.addListener(new AnimatorListener() {
    
 
 
+   
